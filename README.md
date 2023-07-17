@@ -1,8 +1,8 @@
-##Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
+## Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
 
 ![car_showcase](https://github.com/adithyakumars/cars-showcase-ak/assets/130994926/e7acdc25-247a-456b-ab7a-2f9aae8a97f7)
 
-##Introduction
+## Introduction
 
 The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router.
 
@@ -16,7 +16,7 @@ Alongside building this application, you'll also learn how to:
  -> Maintain a well-organized file and folder structure.
  -> Embrace the principles of writing clean code.
 
-##API 
+## API 
 
 sign up & sign in  ->  " https://rapidapi.com/ " 
 
